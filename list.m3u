@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="100569" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://i.imgur.com/OWBzDCd.png", Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108683" tvg-name="Telefe Santa Fe" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Santa Fe
+http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica",Music Top HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
