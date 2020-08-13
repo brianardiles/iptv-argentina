@@ -8,7 +8,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?Playlis
 http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
