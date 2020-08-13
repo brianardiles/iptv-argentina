@@ -1,14 +1,40 @@
-#EXTINF:-1 tvg-id="100569" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://i.imgur.com/OWBzDCd.png", Canal 10 Mar del Plata
+#EXTM3U
+
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://i.imgur.com/OWBzDCd.png", Canal 10 Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Rosario
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="108683" tvg-name="Telefe Santa Fe" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Santa Fe
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Santa Fe
 http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
+#EXTINF:-1 tvg-id="26tv.ar" tvg-name="26tv.ar" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="Musica",Music Top HD
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="tn.ar" tvg-logo="https://i.imgur.com/1wplNkO.png", TN HD
+https://www.youtube.com/watch?v=wHn1_QVoXGM,live
+
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="a24.ar" tvg-logo="https://i.imgur.com/vupuGSP.png", A24 HD
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ac08fb04-8e1c-4375-8ffd-68ea8d4ba15e:SCL/variant/4b6475d14ee905150d7e1a8949241140/bandwidth/1500000.m3u8
+
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="americatv.ar" tvg-logo="https://i.imgur.com/g3nqHB8.png", Amertica TV HD
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/01ef402f-ca57-4400-afff-28677acf0a0b:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STP5kan.png",CANAL 9 HD
+https://ar-elnueve-elnueve-live.ned.media:443/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk3NDAxODQwLCJzZXNzaW9uIjoiMTg3LjY1LjEyMS43OCIsIndoaXRlbGlzdCI6WyIyODA0OjE0ZDoxMjgzOjk0NDU6MWFhOmRhY2U6OTJkMjplNWUxIl19LCJzaWduYXR1cmUiOiI0ZGNmNTNiNWYyYmQyNGMwMTJiZTE3N2U1MWIzMTQ0ZTZlMjUxMjllIn0%3D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4gzGlY.png", Cronica HD
+https://www.youtube.com/watch?v=8n6QKPb_OFQ,live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiedULD.png", Vorterix HD
+https://www.youtube.com/watch?v=Bi4w23aW99s,live
+
+#EXTINF:-1 tvg-id="encuentro.ar" tvg-name="encuentro.ar" tvg-logo="https://i.imgur.com/40WSF6W.png", Encuentro HD
+https://www.youtube.com/watch?v=7iJcL46vxsc,live
+
+#EXTINF:-1,Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,4K Nature
+https://www.youtube.com/watch?v=P7d1H83IcjE,live
