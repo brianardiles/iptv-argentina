@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://i.imgur.com/OWBzDCd.png", Canal 10 Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://i.imgur.com/Qm6iqBO.png", El 13 TV HD
+https://www.youtube.com/watch?v=NUnGMt6bQHo,live
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://i.imgur.com/BoTwEnO.png", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
